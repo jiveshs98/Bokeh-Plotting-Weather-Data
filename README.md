@@ -6,3 +6,5 @@
 &#8226; The output file is created as **Weather.html** file.
 <br></br>
 &#8226; The **snapshot** of the graph is:-
+<br></br>
+![Weather](bokeh_plot_weather.png)
